@@ -12,14 +12,11 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
  
  1) Manipulação de Dados
  
- Sympy
- Pandas
- Numpy
+     Sympy, Pandas, Numpy
  
 2) Visualização de Dados
 
- Matplotlib
- Pyplot
+ Matplotlib, Pyplot
  
  
  3) Probabilidade & Estatística
