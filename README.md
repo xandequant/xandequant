@@ -1,4 +1,4 @@
-Aspirante a áreas de Financial Data Scientist e Quant 
+**Aspirante a áreas de Financial Data Scientist e Quant **
 
 
 Começei a investir em ações com a filosofia Value Investing por vários métodos, entre eles a Taxa interna de retorno, o Modelo Gordon e a DCF.
@@ -10,20 +10,20 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
 
 **Bibliotecas**
  
- 💆‍♂️ Manipulação de Dados
+ 1) Manipulação de Dados
  Sympy
  Pandas
  Numpy
  
-🖼️ Visualização de Dados
+2) Visualização de Dados
  Matplotlib
  Pyplot
  
  
- 🎲 probabilidade & Estatística
+ 3) Probabilidade & Estatística
  Stats
  
- Machine Learning
+ 4) Machine Learning
  Scikit Learn
 
 
