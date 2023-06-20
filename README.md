@@ -28,7 +28,7 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
  
  4) Machine Learning
 
-   Scikit Learn
+    Scikit Learn
 
 
 
