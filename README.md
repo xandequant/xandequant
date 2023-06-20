@@ -14,18 +14,21 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
  
      Sympy, Pandas, Numpy
  
+
 2) Visualização de Dados
 
- Matplotlib, Pyplot
+     Matplotlib, Pyplot
  
  
+
  3) Probabilidade & Estatística
 
- Stats
+    Stats
+ 
  
  4) Machine Learning
 
- Scikit Learn
+   Scikit Learn
 
 
 
