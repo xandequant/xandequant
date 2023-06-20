@@ -1,4 +1,4 @@
-**Aspirante a áreas de Financial Data Scientist e Quant **
+**Aspirante a áreas de Financial Data Scientist e Quant**
 
 
 Começei a investir em ações com a filosofia Value Investing por vários métodos, entre eles a Taxa interna de retorno, o Modelo Gordon e a DCF.
