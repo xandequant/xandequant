@@ -33,6 +33,7 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
 
 **Projetos**
 1) Estatística
+   
 [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
 
 
