@@ -34,6 +34,6 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
 
 
 
-[Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
+- [Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
 
 
