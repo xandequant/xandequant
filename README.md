@@ -1,4 +1,4 @@
-**No caminho Quant & Financial Data Scientist **
+** Quant & Financial Data Scientist **
 
 
 Começei a investir em ações com a filosofia Value Investing por vários métodos, entre eles a Taxa Interna de Retorno, o Modelo Gordon e a DCF.
