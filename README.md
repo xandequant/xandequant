@@ -1,25 +1,30 @@
 ** Quant & Financial Data Scientist **
 
 
-Começei a investir em ações com a filosofia Value Investing por vários métodos, entre eles a Taxa Interna de Retorno, o Modelo Gordon e a DCF.
-Até que me perguntei: Como posso fazer de forma Quantitativa, usando Tecnologia e Massa de dados com oportunidade e escalabilidade?
+I began to invest in stocks with Value Investing philosophy using Internal Rate of Return, Gordon Model, Profit Growth and DCF (Perpetuity and Multiple EBITDA) valuation methods. 
 
-Nesse repositório compartilho meus projetos e experiências: modelagem e análise estatística, programação em Python e uso de
-bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteling com dados no mundo das finanças e investimentos.
+Then I asked myself how to do it in a quantitative way: Technology + Massive Data with Opportunity and Scalability.
+
+Interested in fields that involves Statistical analysis and modeling, as well as Machine Learning for Finance with Python.
+
+Libraries
+ - Pandas, Numpy, Scipy, Sympy, Matplotlib, Plotly, Seaborn, Scikit-Learn
+
+Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting (IFRS)
 
 
-**Bibliotecas**
+**Libraries**
  
- 1) Manipulação de Dados
-    - Sympy, Pandas, Numpy
+ 1) Manipulation and Data Analysis
+    - Pandas, Numpy
  
 
-2) Visualização de Dados
-    - Matplotlib, Pyplot
+2) Data Visualization
+    - Plotly, Matplotlib, Seaborn
  
  
 
- 3) Probabilidade & Estatística
+ 3) Statistics and Probability
     - Stats
  
  
@@ -27,8 +32,8 @@ bibliotecas, bem como o uso do Machine Learning, da contabilidade e do storyteli
     - Scikit Learn
 
 
-**Projetos**
-1) Estatística
+**Projects**
+1) Statistics
    
 - [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
 
