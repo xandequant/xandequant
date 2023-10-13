@@ -44,4 +44,6 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
 
 - [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
 
+  2) Machine Learning
+
 
