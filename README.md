@@ -44,7 +44,7 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
 
 - [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
 
-- [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".]Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".
+- [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".](https://github.com/xandequant/xandequant/blob/main/Lei_de_Zipf_em_TMWSM.ipynb)
 
 2) Machine Learning
 
