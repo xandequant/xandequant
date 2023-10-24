@@ -1,4 +1,4 @@
-** Quant Trader **
+** Equity Stat Arb Quant **
 
 
 I began to invest in stocks with Value Investing philosophy using Internal Rate of Return, Gordon Model, Profit Growth and DCF (Perpetuity and Multiple EBITDA) valuation methods. 
