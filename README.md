@@ -49,6 +49,5 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
 
 
 3) Accounting and Finance
-- [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA]
-(https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
+- [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA](https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
 
