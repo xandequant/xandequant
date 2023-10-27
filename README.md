@@ -38,7 +38,6 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
 - [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
 
 
-
 - [Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
 
 
@@ -48,4 +47,8 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
 
 2) Machine Learning
 
+
+3) Accounting and Finance
+- [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA]
+(https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
 
