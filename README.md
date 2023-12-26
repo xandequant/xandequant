@@ -28,7 +28,7 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
  5) Machine Learning
     - Scikit Learn
    
-  6) Math
+ 6) Math
     - Sympy
 
 
