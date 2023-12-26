@@ -7,9 +7,6 @@ Then I asked myself how to do it in a quantitative way: Technology + Massive Dat
 
 Interested in fields that involves Statistical analysis and modeling, as well as Machine Learning for Finance with Python.
 
-Libraries
- - Pandas, Numpy, Scipy, Sympy, Matplotlib, Plotly, Seaborn, Scikit-Learn
-
 Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting (IFRS)
 
 
