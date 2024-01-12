@@ -33,23 +33,20 @@ Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting 
 
 
 **Projects**
-1) Statistics
-   
-- [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
 
+1) Machine Learning
+- [Estatística Bayesiana e Regressão Logística no IBOVESPA: Como prever a direção do retorno do IBOVESPA nos modelos Logit e splits do Logit, LDA, QDA e KNN?](https://github.com/xandequant/xandequant/blob/main/Regress%C3%A3o_Log%C3%ADstica_no_ibov.ipynb)
+- [Stat Tests and Multiple Linear Regression: The equation relashioship between Chevron stock price x Crude Oil and Natural Gas prices.](https://github.com/xandequant/xandequant/blob/main/Chevron_x_Crude_oil_x_Nat_Gas.ipynb)
 
-- [Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
-
-
-- [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
-
+2) Processamento de Linguagem Natural
 - [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".](https://github.com/xandequant/xandequant/blob/main/Lei_de_Zipf_em_TMWSM.ipynb)
 
-2) Machine Learning
-- [Stat Tests and Multiple Linear Regression: The equation relashioship between Chevron stock price x Crude Oil and Natural Gas prices.](https://github.com/xandequant/xandequant/blob/main/Chevron_x_Crude_oil_x_Nat_Gas.ipynb)
-- [Estatística Bayesiana e Regressão Logística no IBOVESPA: Como prever a direção do retorno do IBOVESPA nos modelos Logit e splits do Logit, LDA, QDA e KNN?](https://github.com/xandequant/xandequant/blob/main/Regress%C3%A3o_Log%C3%ADstica_no_ibov.ipynb)
+3) Statistics
+- [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
+- [Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
+- [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
 
 
-3) Accounting and Finance
+4) Accounting and Finance
 - [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA](https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
 
