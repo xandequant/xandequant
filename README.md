@@ -1,13 +1,7 @@
 ** Quant Dev **
 
 
-I began to invest in stocks with Value Investing philosophy using Internal Rate of Return, Gordon Model, Profit Growth and DCF (Perpetuity and Multiple EBITDA) valuation methods. 
-
-Then I asked myself how to do it in a quantitative way: Technology + Massive Data with Opportunity and Scalability.
-
-Interested in fields that involves Statistical analysis and modeling, as well as Machine Learning for Finance with Python.
-
-Background in Valuation, Corporate Finance, Fundamental Analysis and Accounting (IFRS)
+Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial para modelagem, inferência e predição aplicadas no campo das finanças quantitativas em ações de empresas em Bolsa. 
 
 
 **Libraries**
