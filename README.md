@@ -38,7 +38,7 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
 - [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".](https://github.com/xandequant/xandequant/blob/main/Lei_de_Zipf_em_TMWSM.ipynb)
 
 
-3) Análise e Modelagem Estatística
+3) Análise, Modelagem e Inferência Estatística
 - [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
 - [Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
 - [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
