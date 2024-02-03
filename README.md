@@ -1,4 +1,4 @@
-** Quant Dev **
+** AI & MLOps for Finance**
 
 
 Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial para modelagem, inferência e predição aplicadas no campo das finanças quantitativas em ações de empresas em Bolsa. 
