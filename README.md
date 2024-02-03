@@ -16,7 +16,8 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
  
 
  3) Statistics and Probability
-    - Stats
+    - Statsmodels
+    - Scipy.Stats
  
  
  5) Machine Learning
@@ -33,16 +34,16 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
 - [Stat Tests and Multiple Linear Regression: The equation relashioship between Chevron stock price x Crude Oil and Natural Gas prices.](https://github.com/xandequant/xandequant/blob/main/Chevron_x_Crude_oil_x_Nat_Gas.ipynb)
 
 
-2) Processamento de Linguagem Natural
+2) Processamento de Linguagem Natural (NLP)
 - [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".](https://github.com/xandequant/xandequant/blob/main/Lei_de_Zipf_em_TMWSM.ipynb)
 
 
-3) Statistics
+3) Análise e Modelagem Estatística
 - [EDA aplicado ao Retorno Histórico do Ibovespa: Estatística, Python, História e Mercado](https://github.com/xandequant/xandequant/blob/main/Retorno_hist%C3%B3rico_ibovespa.ipynb)
 - [Augmented Dickey Fuller Test (ADF) em Dividend Investing x Growth Investing: Qual grupo tem o retorno mais estacionário?](https://github.com/xandequant/xandequant/blob/main/ADF_dividend_x_growth.ipynb)
 - [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
 
 
-4) Accounting and Finance
+4) valuation
 - [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA](https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
 
