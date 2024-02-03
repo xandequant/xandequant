@@ -44,6 +44,6 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
 - [Bootstrap de ações com IPO em 2021](https://github.com/xandequant/xandequant/blob/main/Bootstrap_IPO_2021.ipynb)
 
 
-4) valuation
+4) Valuation & Finanças Corporativas
 - [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA](https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
 
