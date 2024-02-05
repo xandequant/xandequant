@@ -29,16 +29,17 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
 
 **Projects**
 
-1) Machine Learning
+*1) Machine Learning*
 - [Estatística Bayesiana e Regressão Logística no IBOVESPA: Como prever a direção do retorno do IBOVESPA nos modelos Logit e splits do Logit, LDA, QDA e KNN?](https://github.com/xandequant/xandequant/blob/main/Regress%C3%A3o_Log%C3%ADstica_no_ibov.ipynb)
 - [Stat Tests and Multiple Linear Regression: The equation relashioship between Chevron stock price x Crude Oil and Natural Gas prices.](https://github.com/xandequant/xandequant/blob/main/Chevron_x_Crude_oil_x_Nat_Gas.ipynb)
 
 
-2) Trading
+*2) Trading*
 - [Pairs Trading: Como a Cointegração de Johansen em bancos brasileiros rendeu 15,39% de retorno acumulado em 15 dias.](https://github.com/xandequant/xandequant/blob/main/Cointegra%C3%A7%C3%A3o%20e%20backtest.ipynb)
 
 
-3) Processamento de Linguagem Natural (NLP)
+
+*3) Processamento de Linguagem Natural (NLP)*
 - [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".](https://github.com/xandequant/xandequant/blob/main/Lei_de_Zipf_em_TMWSM.ipynb)
 
 
