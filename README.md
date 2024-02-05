@@ -39,7 +39,7 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
 
 
 
-**3) Processamento de Linguagem Natural (NLP)***
+**3) Processamento de Linguagem Natural (NLP)**
 - [Lei de Zipf, Estatística e Python na análise das palavras da biografia de Jim Simons - "The Man Who Solved the Market".](https://github.com/xandequant/xandequant/blob/main/Lei_de_Zipf_em_TMWSM.ipynb)
 
 
