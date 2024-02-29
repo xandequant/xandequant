@@ -30,6 +30,7 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial par
 **Projects**
 
 **1) Machine Learning**
+- [Support Vector Machine (SVM) no trading em tempo real: Como se beneficiar dos humores do Mercado com ações da Tesla?](https://github.com/xandequant/xandequant/blob/main/SVM_trading.ipynb)
 - [Estatística Bayesiana e Regressão Logística no IBOVESPA: Como prever a direção do retorno do IBOVESPA nos modelos Logit e splits do Logit, LDA, QDA e KNN?](https://github.com/xandequant/xandequant/blob/main/Regress%C3%A3o_Log%C3%ADstica_no_ibov.ipynb)
 - [Stat Tests and Multiple Linear Regression: The equation relashioship between Chevron stock price x Crude Oil and Natural Gas prices.](https://github.com/xandequant/xandequant/blob/main/Chevron_x_Crude_oil_x_Nat_Gas.ipynb)
 
