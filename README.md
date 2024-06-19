@@ -1,4 +1,4 @@
-** AI & MLOps for Finance**
+** AI & Stat Arb Stock Trading**
 
 
 Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial, análise, modelagem, inferência e predição aplicadas no campo de trading de ações e finanças quantitativas em empresas da Bolsa. 
