@@ -35,7 +35,7 @@ Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial, an
 - [Stat Tests and Multiple Linear Regression: The equation relashioship between Chevron stock price x Crude Oil and Natural Gas prices.](https://github.com/xandequant/xandequant/blob/main/Chevron_x_Crude_oil_x_Nat_Gas.ipynb)
 
 
-**2) Trading**
+**2) Stat Arb/Trading**
 - [Pairs Trading: Como a Cointegração de Johansen em bancos brasileiros rendeu 15,39% de retorno acumulado em 15 dias.](https://github.com/xandequant/xandequant/blob/main/Cointegra%C3%A7%C3%A3o%20e%20backtest.ipynb)
 - [Análise Quantitativa das 7 maiores empresas tecno dos EUA: Por que a NVDA é a mais "tradable"?](https://github.com/xandequant/xandequant/blob/main/Magnificant_7_trading.ipynb)
 
