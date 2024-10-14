@@ -1,4 +1,4 @@
-** Quant, Financial Data Scientist**
+**Quant, Financial Data Scientist, Analista Quantitativo**
 
 
 Ciência de dados e Análise Quantitativa em finanças e renda variável
