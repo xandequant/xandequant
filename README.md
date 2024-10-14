@@ -1,7 +1,9 @@
-** AI & Stat Arb Stock Trader**
+** Quant, Financial Data Scientist**
 
 
-Focado no desenvolvimento e estudo de algoritmos de Inteligência Artificial, análise, modelagem, inferência e predição aplicadas no campo de trading de ações e finanças quantitativas em empresas da Bolsa. 
+Ciência de dados e Análise Quantitativa em finanças e renda variável
+Foco Estatístico, com auxílio da Análise, Modelagem, Inferência e Predição algorítmicas dos dados.
+Inteligência Artificial aplicada às Finanças Quantitativas.
 
 
 **Libraries**
