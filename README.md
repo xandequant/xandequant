@@ -1,7 +1,7 @@
 **Quant, Financial Data Scientist, Analista Quantitativo**
 
 
-Ciência de dados e Análise Quantitativa em finanças e renda variável
+Ciência de dados e Análise Quantitativa em finanças e renda variável.
 Foco Estatístico, com auxílio da Análise, Modelagem, Inferência e Predição algorítmicas dos dados.
 Inteligência Artificial aplicada às Finanças Quantitativas.
 
