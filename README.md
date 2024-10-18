@@ -56,3 +56,6 @@ Inteligência Artificial aplicada às Finanças Quantitativas.
 **5) Valuation & Finanças Corporativas**
 - [VALUATION DA AMBEV PELO MÉTODO DO FLUXO DE CAIXA DESCONTADO E ANÁLISE FUNDAMENTALISTA](https://github.com/xandequant/xandequant/blob/main/Valuation%20AMBEV.pdf)
 
+**Teorias**
+**5) **
+- [Testes de Hipótese Nula em Finanças e Trading](https://github.com/xandequant/xandequant/blob/main/Testes%20de%20HO%20em%20finan%C3%A7as.xlsx)
