@@ -1,9 +1,20 @@
-**Quant, Financial Data Scientist, Analista Quantitativo**
+**Quant, Financial Data Scientist, Quantitative Analyst**
 
+Projects: https://github.com/xandequant
 
-Ciência de dados e Análise Quantitativa em finanças e renda variável.
-Foco Estatístico, com auxílio da Análise, Modelagem, Inferência e Predição algorítmicas dos dados.
-Inteligência Artificial aplicada às Finanças Quantitativas.
+I like to learn from data. 
+I´m a financial data scientist who is passionate about having ideias (even if it´s terrible. Actually most quant ideas are) and backtesting them.
+
+My job is taking Quantitative Financial conclusions based on Statistics, Prediction and Artificial Intelligence.
+
+Strong background in Corporate Finance and Valuation. 
+ 
+✅ Quantitative Finance and Analysis
+✅ Statistics
+✅ Econometrics
+✅ Predictive Modeling
+✅ Pairs Trading
+✅ Stocks, FX, Crypto
 
 
 **Libraries**
