@@ -47,6 +47,7 @@ Strong background in Corporate Finance and Valuation.
 
 
 **2) Stat Arb/Trading**
+- [ENG - Family Wize Error Rate - Type I error analysis from the top 98 american ETF´s. Is this pairs trading worth it?](https://github.com/xandequant/xandequant/blob/main/FWER_on_ETF%C2%B4s.ipynb)
 - [Pairs Trading: Como a Cointegração de Johansen em bancos brasileiros rendeu 15,39% de retorno acumulado em 15 dias.](https://github.com/xandequant/xandequant/blob/main/Cointegra%C3%A7%C3%A3o%20e%20backtest.ipynb)
 - [Análise Quantitativa das 7 maiores empresas tecno dos EUA: Por que a NVDA é a mais "tradable"?](https://github.com/xandequant/xandequant/blob/main/Magnificant_7_trading.ipynb)
 
