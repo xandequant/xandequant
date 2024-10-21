@@ -1,7 +1,5 @@
 **Quant, Financial Data Scientist, Quantitative Analyst**
 
-Projects: https://github.com/xandequant
-
 I like to learn from data. 
 I´m a financial data scientist who is passionate about having ideias (even if it´s terrible. Actually most quant ideas are) and backtesting them.
 
